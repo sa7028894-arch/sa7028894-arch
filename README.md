@@ -1,30 +1,32 @@
-### Hi there, I'm Shoaib Ahmad 👋
+<h3 align="center">Hi there, I'm Shoaib Ahmad 👋</h3>
+<p align="center"><em>Cybersecurity Engineering Student & Full-Stack Systems Developer</em></p>
 
-🛡️ **Cybersecurity Engineering Student | Systems & Full-Stack Developer**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux%20%7C%20GNOME-1793d1?style=flat&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20AI-ff7b72?style=flat" />
-  <img src="https://img.shields.io/badge/Stack-C%++%20%7C%20Python%20%7C%20React-blue?style=flat" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2++&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
 
-### 🚀 About Me
-* 💻 I build software using **C/C++, Python, JavaScript, and React**.
-* 🐧 Daily driver: **Arch Linux (GNOME)** environment.
-* 🧠 Passionate about core computer science, machine learning applications (`cyber-threat-ai`), and secure system design.
+### 💻 About Me
+* 🐧 **Daily Driver:** Arch Linux (GNOME) environment.
+* 🛡️ **Focus:** Cybersecurity, backend architecture, and AI-powered applications (like `cyber-threat-ai`).
+* ⚡ **Core Stack:** C/C++, Python, JavaScript, React, and Flask.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** C, C++, Python, JavaScript, Java
-* **Web & Frameworks:** React, Flask, Tailwind CSS, HTML5/CSS3
-* **Tools & OS:** Git, VS Code, Arch Linux, Gunicorn, Render
+### 🛠️ Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C, C++, Python, JavaScript, Java |
+| **Web & Frameworks** | React, Flask, HTML5, CSS3, Tailwind CSS |
+| **Tools & OS** | Git, VS Code, Gunicorn, Render, Arch Linux |
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sa7028894-arch&show_icons=true&theme=tokyonight&hide_border=true" />
+### 📈 GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sa7028894-arch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" />
 </p>
