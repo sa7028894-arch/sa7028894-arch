@@ -18,7 +18,7 @@
 
 ```yaml
 🎓 Cybersecurity Engineering Student
-🐧 Environment: Arch Linux (GNOME)
+🐧 Environment: Arch Linux (GNOME,NIRI)
 🛡️ Building: cyber-threat-ai
 💻 Langs: C • C++ • Python • JavaScript
 ⚛️ Frontend: React
@@ -61,4 +61,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wavy&color=1793D1&height=80&section=footer" />
   <br>Made with ⚡ by <b>Shoaib</b>
+</div>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 </div>
