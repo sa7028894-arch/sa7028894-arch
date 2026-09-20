@@ -6,7 +6,7 @@
   <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGx0d2ZqZzRjd3l4eWZ5dGJ0c3JhZzN4Z3R0eWZ5dGJ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jklDe/giphy.gif" />
 </div>
 
-<h1 align="center">✦ Hi, I'm Shoaib! ✦</h1>
+
 
 <div align="center">
   <a href="https://linkedin.com/in/shoaib-ahmad-07b1b0325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
