@@ -1,39 +1,33 @@
-<h1 align="center">Hey there, I'm Shoaib Ahmad 👋</h1>
-<p align="center"><em>Cybersecurity Engineering Student & Full-Stack Systems Developer</em></p>
-
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2++&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=SHOAIB%20AHMAD&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student%20|%20Systems%20Developer&descSize=20&descColor=1793D1" width="100%"/>
+</p>
+
+### Connect with me. 🤝
+<p align="left">
+  <a href="https://linkedin.com/in/shoaib-ahmad-07b1b0325"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sa7028894@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/ARCH%20LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
 ---
 
-### ⚡ Quick Snapshot
-* 🐧 **OS:** Arch Linux (GNOME)
-* 🛡️ **Focus:** Cybersecurity, Systems Engineering, & AI Models
-* 💡 **Current Obsession:** Building adaptive learning software and threat-detection utilities
+### About Me. 💻
+* 🛡️ **Cybersecurity Engineering Student** specializing in core computer science.
+* 🐧 Daily driver: **Arch Linux (GNOME)** environment.
+* ⚡ I build software using **C/C++, Python, JavaScript, and React**.
+* 🧠 Passionate about machine learning applications (`cyber-threat-ai`) and secure system design.
+* 📬 How to reach me: **sa7028894@gmail.com**.
 
 ---
 
-### 🛠️ Tech Stack Matrix
-| Layer | Technologies |
-| :--- | :--- |
-| **Languages** | C, C++, Python, JavaScript, Java |
-| **Frameworks** | React, Flask, Tailwind CSS, Node.js |
-| **Tools & Environment** | Git, VS Code, Gunicorn, Render, Arch Linux |
+### Stats 📊
 
----
-
-### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sa7028894-arch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sa7028894-arch&theme=tokyonight&hide_border=true&background=161b22" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sa7028894-arch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&count_private=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sa7028894-arch&theme=tokyonight&hide_border=true&background=161b22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa7028894-arch&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" width="48%" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=sa7028894-arch&theme=tokyo-night&bg_color=161b22&color=1793D1&line=1793D1&point=ffffff" width="48%" />
 </p>
