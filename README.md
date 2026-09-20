@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=SHOAIB%20AHMAD&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student%20|%20Systems%20Developer&descSize=20&descColor=1793D1" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&height=200&section=header&text=SHOAIB%20AHMAD&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student&descSize=18&descColor=1793D1" />
 </p>
 
 ### Connect with me. 🤝
