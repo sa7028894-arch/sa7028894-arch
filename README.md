@@ -13,7 +13,7 @@
 
 ### About Me. 💻
 * 🛡️ **Cybersecurity Engineering Student** specializing in core computer science.
-* 🐧 Daily driver: **Arch Linux (GNOME)** environment.
+* 🐧 Daily driver: **Arch Linux (GNOME,NIRI)** environment.
 * ⚡ I build software using **C/C++, Python, JavaScript, and React**.
 * 🧠 Passionate about machine learning applications (`cyber-threat-ai`) and secure system design.
 * 📬 How to reach me: **sa7028894@gmail.com**.
