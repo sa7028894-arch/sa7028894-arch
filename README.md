@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./levi-happy.gif" width="300" />
+  <h1>✦ Hi, I'm Shoaib! ✦</h1>
+</div>
+<div align="center">
   <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGx0d2ZqZzRjd3l4eWZ5dGJ0c3JhZzN4Z3R0eWZ5dGJ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jklDe/giphy.gif" />
 </div>
 
