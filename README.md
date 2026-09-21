@@ -22,7 +22,6 @@
 
 ```yaml
 👤 name: Shoaib Ahmad
-🔖 pronouns: he/him
 🎓 role: Computer Science Undergraduate
 🌐 focus: Web Development × Cybersecurity
 🛠️ building: modern apps
