@@ -21,13 +21,17 @@
 <img align="right" width="130" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 
 ```yaml
-🎓 Cybersecurity Engineering Student
-🐧 Environment: Arch Linux (GNOME,NIRI)
-🛡️ Building: cyber-threat-ai
-💻 Langs: C • C++ • Python • JavaScript
-⚛️ Frontend: React
-🧠 Learning: ML & Secure System Design
-⚡ Love to: Code • Debug • Break Things 🔨
+👤 name: Shoaib Ahmad
+🔖 pronouns: he/him
+🎓 role: Computer Science Undergraduate
+🌐 focus: Web Development × Cybersecurity
+🛠️ building: modern apps
+✨ craft: clean code & exploring cybersecurity
+🐧 environment: Arch Linux (GNOME, Niri)
+💻 langs: C • C++ • Python • JavaScript • TypeScript
+⚛️ frontend: React • Next.js • HTML • CSS • Tailwind CSS • Vite
+🧰 tools: Git • Bash • VS Code
+⚡ love to: Code • Debug • Break Things 🔨
 ```
 
 ---
